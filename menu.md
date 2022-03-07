@@ -1,7 +1,7 @@
 # Menú para 2022
 
 ## Primer plato
-[Pon aquí en el nombre de tu plato](http://elnombredetuenlace.net))
+[Pon aquí en el nombre de tu plato](http://elnombredetuenlace.net)
 
 
 ## Segundo plato
