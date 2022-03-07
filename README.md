@@ -10,7 +10,11 @@ Cread un nuevo documento para el segundo plato igual que en el caso del primero.
 El segundo plato debe contener como ingrediente principal el pollo.
 
 Por último cread un documento para el postre.
-EL postre debe contener huevo.
+El postre debe contener huevo.
+
+Los 3 documentos deben tener la extensión *.md
+
+Podeis buscar documentación de MarkDown en google.
 
 Una vez creados los 3 documentos y actualizado el repositorio remoto.
 
