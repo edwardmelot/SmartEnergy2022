@@ -18,4 +18,4 @@ Podeis buscar documentación de MarkDown en google.
 
 Una vez creados los 3 documentos y actualizado el repositorio remoto.
 
-Debemos crear un documento para el menú enlazando los 3 platos.
+Debemos modificar el documento para el menú correspondiente enlazando los 3 platos.
