@@ -1,4 +1,4 @@
-# Menú para 2022
+# Menú 1 para 2022
 
 ## Primer plato
 [Pon aquí en el nombre de tu plato](http://elnombredetuenlace.net)
